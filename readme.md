@@ -1,5 +1,8 @@
 # Workday UI improvements and automation
 
+![image](https://github.com/user-attachments/assets/8c76f649-c7dc-455c-892b-438b6748eba1)
+
+
 ## Disclaimer
 Use this on your risk, I am not responsible for the wrong hours entered and any other possible issues.
 
