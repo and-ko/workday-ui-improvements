@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Workday improvements
+// @name         Workday UI improvements
 // @namespace    http://tampermonkey.net/
 // @version      2024-08-22
 // @description  Workday UI improvements
@@ -142,7 +142,7 @@
         </nav>
         <form class="autofill-form" id="autofill-form">
           <div class="form-row">
-           <p>Actions&nbsp;&rarr;&nbsp;Enter time by&nbsp;type&nbsp;&rarr; Comments 0 of 5 </p>
+           <p>Actions&nbsp;&rarr;&nbsp;Enter time by&nbsp;type&nbsp;&rarr; Comments 0 of 5</p>
           </div>
           <div class="form-row">
             <label for="autofill-note">Comments:</label>
