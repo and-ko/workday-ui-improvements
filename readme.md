@@ -23,7 +23,7 @@ Use this on your risk, I am not responsible for the wrong hours entered and any 
 
 1. Go to Workday &rarr; Enter My Time. You should see a form attached above on a top right corner.
 1. Navigate to Actions&nbsp;&rarr;&nbsp;Enter time by&nbsp;type&nbsp;&rarr; Comments 0 of 5
-1. Put your comments in the textarea, and click big blue button. It will fill the comments fields on the page.
+1. Put your comments in the textarea, and click big blue button. It will fill the comments fields on the page. Application will save your comments and you can use them next time.
 1. Review the comments. You can change them manually.
 1. Click Save.
  
