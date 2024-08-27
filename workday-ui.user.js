@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name         Workday UI improvements
 // @namespace    http://tampermonkey.net/
-// @version      2024-08-22
+// @version      0.2.1
 // @description  Workday UI improvements
 // @author       Andrei K
 // @match        https://wd12.myworkday.com/logic/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=myworkday.com
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=https://wd12.myworkday.com
+// @tag          productivity
+// @downloadURL  https://github.com/and-ko/workday-ui-improvements/raw/main/workday-ui.user.js
+// @updateURL    https://github.com/and-ko/workday-ui-improvements/raw/main/workday-ui.user.js
 // @grant GM_addStyle
 // @grant GM_setValue
 // @grant GM_getValue
