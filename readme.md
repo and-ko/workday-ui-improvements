@@ -1,15 +1,25 @@
 # Workday UI improvements and automation
 
+## Disclaimer
+Use this on your risk, I am not responsible for the wrong hours entered and any other possible issues.
+
 ![image](https://github.com/user-attachments/assets/8c76f649-c7dc-455c-892b-438b6748eba1)
 
 
-## Disclaimer
-Use this on your risk, I am not responsible for the wrong hours entered and any other possible issues.
 
 ## Features
 * Selects the text in hours input fields. You don't have to manually delete pre-populated "0"
 * Aligns the fields in a time entry dialog
-* Automatically fills all the comments in a timesheet.
+* Automatically fills all the comments in a timesheet
+
+#### Time entry form before
+Alignment is off. When you focus the "Hours" field, cursor goes after pre-populated "0".
+![single-time-entry-before](https://github.com/user-attachments/assets/96444d88-be24-4852-8986-8098f3260d47)
+
+#### Time entry form after
+When you focus on the "Hours" field, it selects the value and you don't have to manually delete it.
+
+![single-time-entry-after](https://github.com/user-attachments/assets/690868e4-64b1-4af8-9568-1ab17f9d63b2)
 
 
 ## Installation
