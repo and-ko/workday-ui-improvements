@@ -3,8 +3,6 @@
 ## Disclaimer
 Use this on your risk, I am not responsible for the wrong hours entered and any other possible issues.
 
-![image](https://github.com/user-attachments/assets/8c76f649-c7dc-455c-892b-438b6748eba1)
-
 
 
 ## Features
@@ -12,20 +10,26 @@ Use this on your risk, I am not responsible for the wrong hours entered and any 
 * Aligns the fields in a time entry dialog
 * Automatically fills all the comments in a timesheet
 
-#### Time entry form before
+### Time entry form before
 Alignment is off. When you focus the "Hours" field, cursor goes after pre-populated "0".
-![single-time-entry-before](https://github.com/user-attachments/assets/96444d88-be24-4852-8986-8098f3260d47)
 
-#### Time entry form after
+<img alt="Time entry form before" src="https://github.com/user-attachments/assets/c31a1056-b5c8-4521-8641-46a09726b34c" width="461">
+
+### Time entry form after
 When you focus on the "Hours" field, it selects the value and you don't have to manually delete it.
 
-![single-time-entry-after](https://github.com/user-attachments/assets/690868e4-64b1-4af8-9568-1ab17f9d63b2)
+<img alt="Time entry form after" src="https://github.com/user-attachments/assets/690868e4-64b1-4af8-9568-1ab17f9d63b2" width="464">
 
+### Populate comments form for multi-day time entry
+
+The app will save your comments locally in your browser for the future use.
+
+<img alt="Autofill Form" src="https://github.com/user-attachments/assets/8c76f649-c7dc-455c-892b-438b6748eba1" width="230">
 
 ## Installation
 
 1. Install [Tampermonkey Chrome extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).
-2. Go to the file `workday-ui.user.js` and click “Raw” button on the top right corner of the code box.
+2. Go to the file [workday-ui.user.js](workday-ui.user.js) and click “Raw” button on the top right corner of the code box.
 3. Tampermonkey will ask if you want to install this script.
 4. Open Workday page. You should see a little box with a textarea and a button on the top left of the page. The box is draggable.
 
