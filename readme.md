@@ -18,10 +18,11 @@ Alignment is off. When you focus the "Hours" field, cursor goes after pre-popula
 ### Time entry form after
 When you focus on the "Hours" field, it selects the value and you don't have to manually delete it.
 
-<img alt="Time entry form after" src="https://github.com/user-attachments/assets/690868e4-64b1-4af8-9568-1ab17f9d63b2" width="464">
+<img alt="Time entry form after" src="https://github.com/user-attachments/assets/68210677-cc0c-4148-8e4e-38fecf5b905f" width="466">
 
 ### Populate comments form for multi-day time entry
 
+Type your comments for the hours emtry in the from. Click the button to fill all the comments fields on a multi-day comments page. This form will also work on a single day time entry (screenshots above).
 The app will save your comments locally in your browser for the future use.
 
 <img alt="Autofill Form" src="https://github.com/user-attachments/assets/8c76f649-c7dc-455c-892b-438b6748eba1" width="230">
@@ -36,7 +37,7 @@ The app will save your comments locally in your browser for the future use.
 ## Usage
 
 1. Go to Workday &rarr; Enter My Time. You should see a form attached above on a top right corner.
-1. Navigate to Actions&nbsp;&rarr;&nbsp;Enter time by&nbsp;type&nbsp;&rarr; Comments 0 of 5
+1. Navigate to Actions&nbsp;&rarr;&nbsp;Enter time by&nbsp;type&nbsp;&rarr; Comments 0 of 5.
 1. Put your comments in the textarea, and click big blue button. It will fill the comments fields on the page. Application will save your comments and you can use them next time.
 1. Review the comments. You can change them manually.
 1. Click Save.
