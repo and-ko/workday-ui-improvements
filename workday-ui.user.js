@@ -19,7 +19,7 @@
 
   /* Fix inputs alignment on a time entry popup */
   const CSS = `
-    .WP2F>.WG1F>.WK0F>.WM0F.WP-F.WO0F { width: 65px }
+    .WB2F>.WI0F>.WM-F>.WO-F.WB-F.WA0F { width: 65px }
     `;
   GM_addStyle(CSS);
 
@@ -133,6 +133,10 @@
       height:5em;
       vertical-align:top;
     }
+    .autofill-form a:link,
+    .autofill-form a:visited {
+      color: #005cb9;
+    }
     `;
   GM_addStyle(autofill_form_css);
 
@@ -145,7 +149,8 @@
         </nav>
         <form class="autofill-form" id="autofill-form">
           <div class="form-row">
-           <p>Actions&nbsp;&rarr;&nbsp;Enter time by&nbsp;type&nbsp;&rarr; Comments 0 of 5</p>
+           <p><a href="https://wd12.myworkday.com/logic/d/task/2998$10895.htmld">Enter my time</a>&nbsp;&rarr;
+           Actions&nbsp;&rarr;&nbsp;Enter time by&nbsp;type&nbsp;&rarr; Comments 0 of 5</p>
           </div>
           <div class="form-row">
             <label for="autofill-note">Comments:</label>
