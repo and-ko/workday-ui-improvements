@@ -19,7 +19,8 @@
 
   /* Fix inputs alignment on a time entry popup */
   const CSS = `
-    .WB2F>.WI0F>.WM-F>.WO-F.WB-F.WA0F { width: 65px }
+    div:has(> [data-automation-id="formLabel"]),
+    div:has(> [data-automation-id="formLabelRequired"]) { width: 65px !important }
     `;
   GM_addStyle(CSS);
 
